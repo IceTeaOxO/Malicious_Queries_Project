@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # 讀取資料
-data = pd.read_csv('data.csv')
+data = pd.read_csv('new_data.csv')
 # 顯示data的label分布
 print(data['label'].value_counts())
 # 繪製圓餅圖

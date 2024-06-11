@@ -33,6 +33,6 @@ data preprocessing:
 
 
 model used:DistilBertForSequenceClassification
-1. 進行訓練
+1. 進行訓練:因為資料太多了，所以決定重新抽樣並調整weight
 
 results:
