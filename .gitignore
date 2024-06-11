@@ -2,3 +2,4 @@ data
 .venv
 other
 data.csv
+model.pth

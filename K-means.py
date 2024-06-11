@@ -5,7 +5,7 @@ from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
 # 讀取資料
-df = pd.read_csv('data.csv')
+df = pd.read_csv('new_data.csv')
 
 # 使用TF-IDF來轉換url
 vectorizer = TfidfVectorizer()

@@ -34,5 +34,13 @@ data preprocessing:
 
 model used:DistilBertForSequenceClassification
 1. 進行訓練:因為資料太多了，所以決定重新抽樣並調整weight
+2. EPOCHS=3, BATCH_SIZE=6S
+
 
 results:
+![](./img-4.png)
+Train loss 0.1259624000344718 accuracy 0.9842500000000001
+Accuracy: 0.959
+Precision: 0.8571428571428571
+Recall: 0.9122807017543859
+F1 Score: 0.8838526912181304
